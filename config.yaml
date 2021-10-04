@@ -1,6 +1,6 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: Forty
+title: Portfolio website for Claire Hsu
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -10,13 +10,13 @@ params:
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+    title: Hi, my name is Claire Hsu
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: London, ST 00000
+        country: UK
+        street: Park Road
         title: Address
     buttonClear: Clear
     buttonSend: Send message
@@ -25,7 +25,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: (+44) 077693335 x1234
         title: Phone
   custom_css: []
   custom_js: []
@@ -56,9 +56,9 @@ params:
         url: https://www.github.com
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/claire-hsu-729669183
   image: ''
-  name: Your name
+  name: Your Name
   navigation:
     button1:
       - name: Get Started
