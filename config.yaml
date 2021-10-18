@@ -8,8 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
+      MY PERSONAL WEBSITE
     title: Hi, my name is Claire Hsu
   blog: {}
   contact:
@@ -21,21 +20,21 @@ params:
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: ckaijhu.mfa2022@london.edu
         title: Email
     enable: yes
     phone:
-      - phone: (+44) 077693335 x1234
+      - phone: (+44) 077693336
         title: Phone
   custom_css: []
   custom_js: []
-  description: Your description
+  description: MFA 2022 Stream A
   error404:
     heading: Page couldn't be found
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: London Business School 
     enable: yes
     quicklinks:
       - alt: HTML5 UP
@@ -58,7 +57,7 @@ params:
         label: LinkedIn
         url: https://www.linkedin.com/in/claire-hsu-729669183
   image: ''
-  name: Your Name
+  name: Claire Hsu
   navigation:
     button1:
       - name: Get Started
@@ -81,10 +80,12 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
+      - image: https://convertio.co/
+https://s118.convertio.me/p/ct4vIJorOJsenEO_MHSCBw/aeee156779d5a9f2da300d6760917e20/210827_CV_Claire-Hsu.png
+        subtitle: updated on Oct 18th
+        title: CV
+        url: https://convertio.co/
+https://s118.convertio.me/p/ct4vIJorOJsenEO_MHSCBw/aeee156779d5a9f2da300d6760917e20/210827_CV_Claire-Hsu.png
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
@@ -108,11 +109,6 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
+    subtitle: "My personal webisite, including CV and portfolios"
     title: Massa libero
     url: blogs
