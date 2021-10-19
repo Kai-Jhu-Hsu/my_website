@@ -37,7 +37,7 @@ params:
     copyright: London Business School 
     enable: yes
     quicklinks:
-      - alt: HTML5 UP
+      - alt: claire-hsu
         text: 'Design: '
         url: https://www.html5up.net
     social:
@@ -72,43 +72,34 @@ params:
         url: blogs
       - name: Generic Blog
         url: blogs/ipsum
-      - name: Elements
-        url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
+    subtitle: Claire-Hsu
     title: Forty
   tiles:
     enable: yes
     showcase:
-      - image: https://convertio.co/
-https://s118.convertio.me/p/ct4vIJorOJsenEO_MHSCBw/aeee156779d5a9f2da300d6760917e20/210827_CV_Claire-Hsu.png
-        subtitle: updated on Oct 18th
-        title: CV
-        url: https://convertio.co/
-https://s118.convertio.me/p/ct4vIJorOJsenEO_MHSCBw/aeee156779d5a9f2da300d6760917e20/210827_CV_Claire-Hsu.png
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+      - image: development.jpeg
+        subtitle: Career development before masters
+        title: Career 
+        url: blogs/ipsum
+      - image: taipei.jpeg
+        subtitle: Raised and born in Taiwan, Taipei
+        title: Hometown 
         url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+      - image: ucb.jpeg
+        subtitle: Hong Kong and America
+        title: Exchange studies
+        url: blogs/tempus
+      - image: lbs.jpeg
+        subtitle: Currently studying at London Business School
+        title: Course Work Example
+        url: blogs/aliquam
+
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "My personal webisite, including CV and portfolios"
-    title: Massa libero
+    subtitle: "My personal webisite"
+    title: Claire Hsu
     url: blogs
+    
+    

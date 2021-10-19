@@ -2,13 +2,14 @@
 categories:
 - ""
 - ""
-date: "2017-10-31T21:28:43-05:00"
-description: ""
+date: "2021-10-18"
+description: I am passionate about financial products. 
 draft: false
-image: pic10.jpg
+image: wall-street.jpeg
 keywords: ""
 slug: ipsum
-title: Ipsum
+title: Career
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+I have done my internships in the AM/WM industry. My long term career goal is to be a successful in the Global Markets Division.
+Click here to check my [resume](https://drive.google.com/file/d/1COfrWA00zDqXpDrVJqVyEVyCuyNcoBI2/view?usp=sharing) 

@@ -2,14 +2,12 @@
 categories:
 - ""
 - ""
-date: "2017-10-31T22:26:13-05:00"
-description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna
-  sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa
-  sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-  consequat tincidunt. Vivamus et sagittis tempus.
+date: "2021-10-18"
+description: I have done my exchange studies at University of Hong Kong and UC Berkeley.
 draft: false
-image: pic08.jpg
+image: Hong-Kong_skyline.jpeg
 keywords: ""
 slug: tempus
-title: Tempus
+title: Exchange Study
 ---
+I have done my exchange at Hong Kong and US. Despite spending only two months in Hong Kong, I am indeed attracted by the beuty of the city.
